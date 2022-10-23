@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees:record xmlns:employees="http://employee.com"
+                    xmlns:biblio="http://biblio.com">
+    
+    <employees:title>Dr. </employees:title>
+    <employees:name>Miller</employees:name>
+    <employees:publications>
+        <biblio:book>
+            <biblio:title>A true story</biblio:title>
+            <biblio:description>A real cool publication</biblio:description>
+        </biblio:book>
+    </employees:publications>
+</employees:record>
