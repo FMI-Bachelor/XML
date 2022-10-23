@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<operations>
+    <operation>
+        <condition>Equal to</condition>
+        <syntax>=A1=B1</syntax>
+        <description></description>
+    </operation>
+
+    <operation>
+        <condition>Not equal to</condition>
+        <syntax>=A1&lt;&gt;B1</syntax>
+        <description></description>
+    </operation>
+
+    <operation>
+        <condition>Greater than</condition>
+        <syntax>=A1&gt;B1</syntax>
+        <description></description>
+    </operation>
+
+    <operation>
+        <condition>Less than</condition>
+        <syntax>=A1&lt;B1</syntax>
+        <description></description>
+    </operation>
+
+    <operation>
+        <condition>Greater than or equal to</condition>
+        <syntax>=A1&gt;=B1</syntax>
+        <description></description>
+    </operation>
+
+    <operation>
+        <condition>Less than or equal to</condition>
+        <syntax>=A1&lt;=B1</syntax>
+        <description></description>
+    </operation>
+</operations>
