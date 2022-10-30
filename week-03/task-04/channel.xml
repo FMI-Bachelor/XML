@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE channel SYSTEM "channel.dtd">
+<channel>
+    <item>
+        <title>Novini</title>
+        <link>btvnovinite.bg</link>
+    </item>
+
+    <title>BTV</title>
+    <link>btv.bg</link>
+    <image>
+        <link>test.com</link>
+    </image>
+
+    <language>EN</language>
+
+    <description>
+        fdsajfkl;dasjfaslk;d
+    </description>
+</channel>

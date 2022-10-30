@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT channel (item+, title, link, image*, language?, description)> 
+<!ELEMENT item ((title, link, description?) | (link, description?, title) | (link, title, description?) | (link, description?, title) | (description?, link, title) | (description?, title, link))>
+<!ELEMENT image (title* | link* | url*)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
