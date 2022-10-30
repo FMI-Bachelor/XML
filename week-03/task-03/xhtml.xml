@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//TEXT entity//BG" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>Test</title>
+    </head>
+    <body>
+        <h1>XHTML test</h1>
+        <a href="test.com">Test</a>
+    </body>
+</html>
