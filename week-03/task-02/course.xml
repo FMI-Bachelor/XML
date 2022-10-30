@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Course_Catalog SYSTEM "course.dtd">
+<Course_Catalog>
+    <Department Code="CS">
+        <Title>MLA</Title>
+        <Chair>
+            <Professor>
+                <First_Name>Minko</First_Name>
+                <Last_Name>Minkov</Last_Name>
+            </Professor>
+        </Chair>
+        <Course Number="CS109">
+            <Title>Logical Programming</Title>
+            <Instructors>
+                <Professor>
+                    <First_Name>Tinko</First_Name>
+                    <Last_Name>Tinkov</Last_Name>
+                </Professor>
+                
+                <Lecturer>
+                    <First_Name>Stefan</First_Name>
+                    <Last_Name>Gerdzikov</Last_Name>
+                </Lecturer>
+            </Instructors>
+        </Course>
+    </Department>
+</Course_Catalog>
